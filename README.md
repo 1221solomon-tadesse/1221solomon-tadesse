@@ -1,7 +1,10 @@
+
 <h1 align="center">Hi 👋, I'm Solomon Tadesse</h1>
 <h3 align="center">A passionate Full-Stack developer from Ethiopia</h3>
 
 <p align="left"> <img src="https://user-images.githubusercontent.com/74038190/212749168-86d6c7ab-98da-409b-998f-c5b74721badd.gif" alt="1221solomon-tadesse" /> </p>
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+
 
 
 - 🌱 I’m currently learning **React Native ,Next.js ,Node.js**
