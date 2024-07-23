@@ -1,9 +1,8 @@
 <h1 align="center">Hi 👋, I'm Solomon Tadesse</h1>
 <h3 align="center">A passionate Full-Stack developer from Ethiopia</h3>
 
-<p align="left"> <img src="https://www.genesiscreatives.com/wp-content/uploads/2023/03/web-design-trends-1024x684.jpg" alt="1221solomon-tadesse" /> </p>
+<p align="left"> <img src="https://user-images.githubusercontent.com/74038190/212749168-86d6c7ab-98da-409b-998f-c5b74721badd.gif" alt="1221solomon-tadesse" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=1221solomon-tadesse" alt="1221solomon-tadesse" /></a> </p>
 
 - 🌱 I’m currently learning **React Native ,Next.js ,Node.js**
 
