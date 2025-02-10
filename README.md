@@ -7,7 +7,7 @@
 
 
 
-- 🌱 I’m currently learning **React Native ,Next.js ,Node.js**
+- 🌱 I’m currently learning **React  ,Next.js ,Node.js**
 
 - 💬 Ask me about **MERN**
 
