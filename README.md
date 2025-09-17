@@ -7,7 +7,7 @@
 
 
 
-- 🌱 I’m currently working **React  ,Next.js ,Node.js**
+- 🌱 I’m currently working **React ,Next.js ,Nest.js,PostgrSql,TypeORM**
 
 - 💬 Ask me about **MERN**
 
